@@ -1,0 +1,10 @@
+name: Hunters
+version: 0.1
+main: me.syes.hunters.Core
+author: Syes
+description: TODO
+commands:
+  arena:
+    aliases: [a]
+  game:
+    aliases: [g]
